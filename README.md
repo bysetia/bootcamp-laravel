@@ -7,60 +7,34 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## Deskripsi Mengikuti Bootcamp Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Bootcamp Laravel ini adalah perjalanan pembelajaran pribadi yang saya ikuti, merangkum topik-topik kunci dalam pengembangan aplikasi web menggunakan Laravel. Bootcamp ini memulai dengan membangun aplikasi Chirper menggunakan Blade, meliputi instalasi, pembuatan, penampilan, pengeditan, hingga penghapusan Chirps. Saya menjelajahi fitur notifikasi, events, dan mengasah keterampilan dengan membangun Chirper menggunakan Livewire dan Inertia.js. Bootcamp ini juga membahas panduan deployment aplikasi Laravel. Dengan mengikuti beragam topik ini, saya menyelesaikan bootcamp dengan memperkuat pemahaman dan keterampilan praktis dalam pengembangan aplikasi web menggunakan Laravel.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Materi Bootcamp Laravel
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Introduction: Pengenalan tentang framework Laravel, termasuk konsep dasar dan manfaatnya dalam pengembangan aplikasi web.
 
-## Learning Laravel
+Build Chirper with Blade: Membangun aplikasi Chirper dengan menggunakan Blade sebagai templating engine. Ini mencakup cara membuat tampilan, integrasi template, dan praktik penggunaan Blade.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+✔Installation: Panduan langkah-demi-langkah untuk melakukan instalasi Laravel di lingkungan pengembangan Anda dan persiapan awal yang diperlukan sebelum memulai pengembangan.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+✔Creating Chirps: Pembuatan chirps (post) baru dalam aplikasi dengan Laravel, termasuk validasi input dan penyimpanan data ke dalam database.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+✔Showing Chirps: Menampilkan chirps yang sudah ada di dalam halaman web menggunakan Laravel dengan cara menarik data dari database dan menampilkannya secara dinamis.
 
-## Laravel Sponsors
+✔Editing Chirps: Mengedit chirps yang ada di aplikasi Laravel dengan validasi data dan melakukan pembaruan terhadap informasi chirp.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+✔Deleting Chirps: Proses penghapusan chirps dari aplikasi Laravel dengan penanganan konfirmasi penghapusan dan penghapusan data dari database.
 
-### Premium Partners
+✔Notifications & Events: Penggunaan notifikasi dan events di Laravel untuk manajemen notifikasi berbasis event seperti email, notifikasi browser, dan lainnya.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+✔Build Chirper with Livewire: Membangun aplikasi Chirper dengan menggunakan Livewire untuk interaksi komponen UI secara real-time tanpa menggunakan JavaScript.
 
-## Contributing
+✔Build Chirper with Inertia: Membangun aplikasi Chirper dengan Inertia.js untuk membuat tampilan single-page application menggunakan Vue.js.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+✔Deploying: Panduan tentang cara melakukan deployment aplikasi Laravel ke server produksi agar dapat diakses secara publik.
 
-## Code of Conduct
+✔Conclusion: Kesimpulan yang merangkum pembelajaran dari bootcamp, menekankan poin-poin kunci yang telah dipelajari, serta mendorong pengembangan lanjutan di masa depan.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
