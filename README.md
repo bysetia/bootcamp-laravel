@@ -17,24 +17,24 @@ Introduction: Pengenalan tentang framework Laravel, termasuk konsep dasar dan ma
 
 Build Chirper with Blade: Membangun aplikasi Chirper dengan menggunakan Blade sebagai templating engine. Ini mencakup cara membuat tampilan, integrasi template, dan praktik penggunaan Blade.
 
-✔Installation: Panduan langkah-demi-langkah untuk melakukan instalasi Laravel di lingkungan pengembangan Anda dan persiapan awal yang diperlukan sebelum memulai pengembangan.
+✅Installation: Panduan langkah-demi-langkah untuk melakukan instalasi Laravel di lingkungan pengembangan Anda dan persiapan awal yang diperlukan sebelum memulai pengembangan.
 
-✔Creating Chirps: Pembuatan chirps (post) baru dalam aplikasi dengan Laravel, termasuk validasi input dan penyimpanan data ke dalam database.
+✅Creating Chirps: Pembuatan chirps (post) baru dalam aplikasi dengan Laravel, termasuk validasi input dan penyimpanan data ke dalam database.
 
-✔Showing Chirps: Menampilkan chirps yang sudah ada di dalam halaman web menggunakan Laravel dengan cara menarik data dari database dan menampilkannya secara dinamis.
+✅Showing Chirps: Menampilkan chirps yang sudah ada di dalam halaman web menggunakan Laravel dengan cara menarik data dari database dan menampilkannya secara dinamis.
 
-✔Editing Chirps: Mengedit chirps yang ada di aplikasi Laravel dengan validasi data dan melakukan pembaruan terhadap informasi chirp.
+✅Editing Chirps: Mengedit chirps yang ada di aplikasi Laravel dengan validasi data dan melakukan pembaruan terhadap informasi chirp.
 
-✔Deleting Chirps: Proses penghapusan chirps dari aplikasi Laravel dengan penanganan konfirmasi penghapusan dan penghapusan data dari database.
+❎Deleting Chirps: Proses penghapusan chirps dari aplikasi Laravel dengan penanganan konfirmasi penghapusan dan penghapusan data dari database.
 
-✔Notifications & Events: Penggunaan notifikasi dan events di Laravel untuk manajemen notifikasi berbasis event seperti email, notifikasi browser, dan lainnya.
+❎Notifications & Events: Penggunaan notifikasi dan events di Laravel untuk manajemen notifikasi berbasis event seperti email, notifikasi browser, dan lainnya.
 
-✔Build Chirper with Livewire: Membangun aplikasi Chirper dengan menggunakan Livewire untuk interaksi komponen UI secara real-time tanpa menggunakan JavaScript.
+❎Build Chirper with Livewire: Membangun aplikasi Chirper dengan menggunakan Livewire untuk interaksi komponen UI secara real-time tanpa menggunakan JavaScript.
 
-✔Build Chirper with Inertia: Membangun aplikasi Chirper dengan Inertia.js untuk membuat tampilan single-page application menggunakan Vue.js.
+❎Build Chirper with Inertia: Membangun aplikasi Chirper dengan Inertia.js untuk membuat tampilan single-page application menggunakan Vue.js.
 
-✔Deploying: Panduan tentang cara melakukan deployment aplikasi Laravel ke server produksi agar dapat diakses secara publik.
+❎Deploying: Panduan tentang cara melakukan deployment aplikasi Laravel ke server produksi agar dapat diakses secara publik.
 
-✔Conclusion: Kesimpulan yang merangkum pembelajaran dari bootcamp, menekankan poin-poin kunci yang telah dipelajari, serta mendorong pengembangan lanjutan di masa depan.
+❎Conclusion: Kesimpulan yang merangkum pembelajaran dari bootcamp, menekankan poin-poin kunci yang telah dipelajari, serta mendorong pengembangan lanjutan di masa depan.
 
 
