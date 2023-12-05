@@ -27,7 +27,7 @@ Build Chirper with Blade: Membangun aplikasi Chirper dengan menggunakan Blade se
 
 ✅Deleting Chirps: Proses penghapusan chirps dari aplikasi Laravel dengan penanganan konfirmasi penghapusan dan penghapusan data dari database.
 
-❎Notifications & Events: Penggunaan notifikasi dan events di Laravel untuk manajemen notifikasi berbasis event seperti email, notifikasi browser, dan lainnya.
+✅Notifications & Events: Penggunaan notifikasi dan events di Laravel untuk manajemen notifikasi berbasis event seperti email, notifikasi browser, dan lainnya.
 
 ❎Build Chirper with Livewire: Membangun aplikasi Chirper dengan menggunakan Livewire untuk interaksi komponen UI secara real-time tanpa menggunakan JavaScript.
 
