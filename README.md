@@ -9,7 +9,7 @@
 
 ## Deskripsi Mengikuti Bootcamp Laravel
 
-Bootcamp Laravel ini adalah perjalanan pembelajaran pribadi yang saya ikuti, merangkum topik-topik kunci dalam pengembangan aplikasi web menggunakan Laravel. Bootcamp ini memulai dengan membangun aplikasi Chirper menggunakan Blade, meliputi instalasi, pembuatan, penampilan, pengeditan, hingga penghapusan Chirps. Saya menjelajahi fitur notifikasi, events, dan mengasah keterampilan dengan membangun Chirper menggunakan Livewire dan Inertia.js. Bootcamp ini juga membahas panduan deployment aplikasi Laravel. Dengan mengikuti beragam topik ini, saya menyelesaikan bootcamp dengan memperkuat pemahaman dan keterampilan praktis dalam pengembangan aplikasi web menggunakan Laravel.
+Bootcamp Laravel ini adalah perjalanan pembelajaran pribadi yang saya ikuti, merangkum topik-topik kunci dalam pengembangan aplikasi web menggunakan Laravel. Bootcamp ini memulai dengan membangun aplikasi Chirper menggunakan Blade, meliputi instalasi, pembuatan, penampilan, pengeditan, hingga penghapusan Chirps. Saya menjelajahi fitur notifikasi, events, dan mengasah keterampilan dengan membangun Chirper menggunakan Livewire dan Inertia.js. Bootcamp ini juga membahas panduan deployment aplikasi Laravel. Dengan mengikuti beragam topik ini, saya akan menyelesaikan bootcamp dengan memperkuat pemahaman dan keterampilan praktis dalam pengembangan aplikasi web menggunakan Laravel.
 
 ## Materi Bootcamp Laravel
 
